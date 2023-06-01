@@ -1,3 +1,4 @@
+// heihtとweightからBMIを計算する
 function calcBmi() {
     var height = document.getElementById("height").value
     var weight = document.getElementById("weight").value
